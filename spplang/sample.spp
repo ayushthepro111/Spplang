@@ -1,0 +1,33 @@
+variable my_var = 42
+integer int_var = 10
+float float_var = 3.14
+complex comp_var = 2.0 3.0
+
+withdraw result = 20 10
+into product = 5 4
+onto division_result = 15 3
+
+dis_length str_len = 'Hello, World!'
+
+listf my_list = 1.0 2.0 3.0 4.0
+tuplef my_tuple = 0.1 0.2 0.3 0.4
+rangef my_range = 1 10 2
+setf my_set = 1.0 2.0 3.0 4.0
+frozset my_frozset = 1.0 2.0 3.0
+
+boolean is_true_var = True
+
+
+
+byte my_bytes = Hello
+byte_arr byte_array = 72 101 108 108 111
+
+
+positive x = 10
+mini y = 4 7 2 9 3
+maxi z = 12 5 8 1
+power a = 2 3
+sq_root b = 25
+cb_root c = 64
+close d = 5.7
+roundf e = 4.3
