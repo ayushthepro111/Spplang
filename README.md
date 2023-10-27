@@ -83,4 +83,4 @@ Learn how to troubleshoot common problems or errors that may occur while using S
 
 # Contact and Support
 
-For any additional inquiries, feedback, or technical support, please contact the SppLang development team at [support@spplang.com](mailto:support@spplang.com).
+For any additional inquiries, feedback, or technical support, please contact the SppLang development team at [support@spplang.com](mailto:ayushmangupta69@gmail.com).
