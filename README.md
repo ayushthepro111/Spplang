@@ -1,7 +1,7 @@
 # Introduction
 sample code given *sample.spp*
 # My Website
-[🌐www.spplang.com🌐](https://spplang.tiiny.site/_blank)
+[🌐www.spplang.com🌐](https://spplang.tiiny.site/)
 
 ## What is SppLang?
 
